@@ -1,0 +1,2 @@
+"i am changing master-a.txt from feature2 branch"
+
