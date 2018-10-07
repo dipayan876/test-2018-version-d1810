@@ -1,2 +1,5 @@
-"i am changing master-a.txt from feature2 branch"
+
+ 
+"i am changing master-a.txt from feature2 branch" and resolving merge conflict so the next line is to remove the conflict 
+"i am changing master-1.txt from feature1"
 
